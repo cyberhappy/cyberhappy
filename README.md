@@ -1,8 +1,7 @@
 ![Programmer and cyber security engineering](https://community.connection.com/wp-content/uploads/2021/01/1225290-Blog-Security-Trends-BLOG.jpg)
 # Ahmed Sahal
 
-I'm Ahmed sahal and I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician
-
+I'm Ahmed sahal and I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician.
 I'm a hardworking, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humor. I am able to work independently in busy environments and also within a team setting. I am outgoing and tactful, and able to listen effectively when solving problems ....
 
 Skills: C# / CYBER SECURITY / SHELL SCRIPT / PYTHON / HTML
