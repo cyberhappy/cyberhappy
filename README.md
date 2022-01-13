@@ -1,6 +1,5 @@
 ![Programmer and cyber security engineering](https://community.connection.com/wp-content/uploads/2021/01/1225290-Blog-Security-Trends-BLOG.jpg)
 # Ahmed Sahal
-#### Programmer and cyber security engineering
 
 I'm Ahmed sahal and I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician
 
