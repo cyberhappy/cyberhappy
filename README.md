@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed Sahal 👋 
 
-I'm Ahmed sahal and I'm a programmer | Linux administrator |network engineering | cyber security engineering and technician
+I'm Ahmed sahal and I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician
 
 <!--
 **cyberhappy/cyberhappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
