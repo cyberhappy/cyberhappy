@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Pentester | Developer | Linux Adminstrator |
 --------------------------------------------
 
-I'm Ahmed sahal and I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician. I'm a hardworking, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humor. I am able to work independently in busy environments and also within a team setting. I am outgoing and tactful, and able to listen effectively when solving problems ....
+I'm Ahmed sahal I'm a programmer | Linux administrator | network engineering | cyber security engineering and technician. I'm a hardworking, honest individual. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humor. I am able to work independently in busy environments and also within a team setting. I am outgoing and tactful, and able to listen effectively when solving problems ....
 
 * 🌍  I'm based in Burao Somalia
 * 🖥️  See my portfolio at [Website](http://brilliant-meringue-85e24a.netlify.app)
